@@ -1,0 +1,16 @@
+{
+  "name": "homework12",
+  "version": "1.0.0",
+  "description": "employee tracker",
+  "main": "employeetracker.js",
+  "scripts": {
+    "test": "runtracker"
+  },
+  "author": "Anthony White",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
